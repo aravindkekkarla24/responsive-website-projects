@@ -7,11 +7,11 @@ It is part of a food website UI and adapts to different screen sizes (mobile, ta
 
 ## 🌐 Live Demo
 
-👉 https://navbarfoodmuch.ccbp.tech/
+ https://navbarfoodmuch.ccbp.tech/
 
 ---
 
-## 📌 Features
+##  Features
 
 * ✅ Fully responsive navbar
 * ✅ Logo integration
@@ -20,7 +20,7 @@ It is part of a food website UI and adapts to different screen sizes (mobile, ta
 
 ---
 
-## 🧱 Technologies Used
+##  Technologies Used
 
 * HTML
 * Bootstrap
@@ -29,18 +29,18 @@ It is part of a food website UI and adapts to different screen sizes (mobile, ta
 ---
 
 
-## 📱 Responsive Behavior
+##  Responsive Behavior
 
 * Large screens → full navbar visible
 * Small screens → collapsible menu (hamburger icon)
 
 ---
 
-## 🧠 Learning Outcome
+##  Learning Outcome
 
 * Understand Bootstrap navbar
 * Use utility classes like `ms-auto`
 
 ---
 
-⭐ This project helped me practice Bootstrap responsive design!
+ This project helped me practice Bootstrap responsive design!
