@@ -1,4 +1,4 @@
-# 🍔 Food Munch Navbar (Responsive)
+#  Food Munch Navbar (Responsive)
 
 This project is a **responsive navigation bar** built using **Bootstrap 5**.
 It is part of a food website UI and adapts to different screen sizes (mobile, tablet, desktop).
